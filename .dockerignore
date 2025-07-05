@@ -1,0 +1,11 @@
+.git
+.gitignore
+README.md
+LICENSE
+.dockerignore
+.DS_Store
+Thumbs.db
+.vscode
+.idea
+*.swp
+*.log
